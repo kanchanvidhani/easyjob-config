@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EasyBank cards related Production APIs"
+  contactDetails:
+    name: "Arjun Vidhani - Product lead"
+    email: "hksbkfk@gmail.com"
+  onCallSupport:
+    - (412) 419-9982
+    - (915) 912-1132

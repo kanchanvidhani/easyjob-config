@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EasyBank cards related QA APIs"
+  contactDetails:
+    name: "Gautam Vidhani - QA Lead"
+    email: "knksbbk@gmail.com"
+  onCallSupport:
+    - (412) 419-2231
+    - (915) 912-1132
