@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EasyBank cards related Production APIs"
+  message: "Welcome to EasyBank cards related production APIs"
   contactDetails:
     name: "Arjun Vidhani - Product Head"
     email: "knksbbk@gmail.com"
