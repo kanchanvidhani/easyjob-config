@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EasyBank cards related Production APIs"
+  message: "Welcome to EasyBank cards related production APIs"
   contactDetails:
     name: "Arjun Vidhani - Product lead"
     email: "{cipher}e4de7f2b423bdbdd4a526da8300724fffb06aeb0590312c47d7ddaba4953306fffff9cd4a4f8ed5dc36f8ee6b1cc7021"
